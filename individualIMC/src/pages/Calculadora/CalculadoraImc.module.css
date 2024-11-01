@@ -1,0 +1,16 @@
+section {
+  background-color: lightblue;
+  border-radius: 10%;
+  border: 1px solid cornflowerblue;
+  height: 350px;
+  width: 30%;
+  margin: 75px auto;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section > div > p {
+  margin-top: 20px;
+}
